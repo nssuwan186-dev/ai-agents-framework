@@ -14,13 +14,13 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "turbo": "^1.11.2",
+    "turbo": "^2.11.9",
     "prettier": "^3.1.1",
     "typescript": "^5.3.3"
   },
   "packageManager": "npm@10.2.4",
   "dependencies": {
-    "ai": "^4.0.22",
+    "ai": "^7.0.146",
     "langfuse": "^3.32.0",
     "zod": "^3.24.1"
   }
